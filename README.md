@@ -1,6 +1,6 @@
 # Hej! I'm Berkay Orhan 👋
 
-I am a **5th-year M.Sc. Media Technology & Engineering** student at Linköping University. I specialize in building high-performance systems, ranging from cloud-based AI agents to low-level graphics engines.
+I am a **5th-year M.Sc. Media Technology & Engineering** student at Linköping University. I specialize in designing scalable **cloud architectures** and **autonomous AI agents**, focusing on the intersection of LLM reasoning and enterprise-level system design.
 
 ### 🔭 Current Focus: Master's Thesis (Exjobb)
 I am currently developing an **Agentic GraphRAG system** for test scope analysis within the telecommunications industry. This involves leveraging LLMs, Knowledge Graphs, and autonomous agents to optimize complex software testing workflows.
