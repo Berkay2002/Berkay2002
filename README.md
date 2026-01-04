@@ -22,7 +22,7 @@ I am currently developing an **Agentic GraphRAG system** for test scope analysis
 
 * **[Voxel Engine](https://github.com/Berkay2002/voxel-project):** A high-performance C++20 engine built from scratch. Features multithreaded chunk generation, aggressive face culling, and procedural 3D Perlin noise terrain. 
 * **[LiThePlan](https://github.com/Berkay2002/LiThePlan):** An intelligent course planning platform for LiU students, managing complex validated degree profiles.
-* **Agentic GraphRAG:** My Master's thesis project focused on industrial-scale test analysis using AI agents.
+* **[Agentic GraphRAG](https://github.com/Berkay2002/agentic-rag-test-scope-analysis):** My Master's thesis project focused on industrial-scale test analysis using AI agents.
 
 ---
 
@@ -34,7 +34,7 @@ I am currently developing an **Agentic GraphRAG system** for test scope analysis
 ### 📫 Let's Connect
 * **Portfolio:** [berkay.se](https://berkay.se)
 * **Email:** [berkayorhan@hotmail.se](mailto:berkayorhan@hotmail.se)
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **LinkedIn:** [linkedin.com/in/berkay-orhan]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/berkay-orhan-b71256204/))
 
 ---
 *"Blending low-level performance with high-level intelligence."*
