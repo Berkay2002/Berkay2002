@@ -14,7 +14,6 @@ I am currently developing an **Agentic GraphRAG system** for test scope analysis
 | **Languages** | TypeScript, Python, JavaScript, C++20 |
 | **Web Development** | Next.js, React, Node.js, Tailwind CSS, PostgreSQL |
 | **Specialized Interests** | RAG, AI Agents, LLMs, Machine Learning, Cloud Architecture |
-| **Graphics/Engine** | OpenGL 4.6, CMake, GLSL |
 
 ---
 
