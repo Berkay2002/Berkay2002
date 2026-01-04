@@ -24,6 +24,3 @@ I am currently developing an **Agentic GraphRAG system** for test scope analysis
 * **Portfolio:** [berkay.se](https://berkay.se)
 * **Email:** [berkayorhan@hotmail.se](mailto:berkayorhan@hotmail.se)
 * **LinkedIn:** [linkedin.com/in/berkay-orhan](https://www.linkedin.com/in/berkay-orhan-b71256204/)
-
----
-*"Blending low-level performance with high-level intelligence."*
