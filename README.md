@@ -7,16 +7,6 @@ I am currently developing an **Agentic GraphRAG system** for test scope analysis
 
 ---
 
-### 🛠 Technical Toolbox
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | TypeScript, Python, JavaScript, C++ |
-| **Web Development** | Next.js, React, Node.js, Tailwind CSS, PostgreSQL |
-| **Specialized Interests** | RAG, AI Agents, LLMs, Machine Learning, Cloud Architecture |
-
----
-
 ### 🏗 Featured Projects
 
 * **[Voxel Engine](https://github.com/Berkay2002/voxel-project):** A high-performance C++20 engine built from scratch. Features multithreaded chunk generation, aggressive face culling, and procedural 3D Perlin noise terrain. 
@@ -33,7 +23,7 @@ I am currently developing an **Agentic GraphRAG system** for test scope analysis
 ### 📫 Let's Connect
 * **Portfolio:** [berkay.se](https://berkay.se)
 * **Email:** [berkayorhan@hotmail.se](mailto:berkayorhan@hotmail.se)
-* **LinkedIn:** [linkedin.com/in/berkay-orhan]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/berkay-orhan-b71256204/))
+* **LinkedIn:** [linkedin.com/in/berkay-orhan](https://www.linkedin.com/in/berkay-orhan-b71256204/)
 
 ---
 *"Blending low-level performance with high-level intelligence."*
