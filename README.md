@@ -2,9 +2,6 @@
 
 I am a **5th-year M.Sc. Media Technology & Engineering** student at Linköping University. I specialize in designing scalable **cloud architectures** and **autonomous AI agents**, focusing on the intersection of LLM reasoning and enterprise-level system design.
 
-### 🔭 Current Focus: Master's Thesis (Exjobb)
-I am currently writing my Master's thesis on an **Agentic GraphRAG system** for test scope analysis in the telecommunications industry — combining LLMs, Knowledge Graphs, and autonomous agents to optimize complex software testing workflows.
-
 ---
 
 ### 🏗 Featured Projects
