@@ -1,6 +1,6 @@
 # Hej! I'm Berkay Orhan 👋
 
-Software engineer at **Ericsson**, finishing my **M.Sc. in Media Technology & Engineering** at Linköping University.
+Software engineer at **Ericsson**.
 
 I build **agentic AI systems** and the tooling around them, and I like turning physics into interactive browser simulations.
 
