@@ -1,23 +1,29 @@
 # Hej! I'm Berkay Orhan 👋
 
-I am a **5th-year M.Sc. Media Technology & Engineering** student at Linköping University. I specialize in designing scalable **cloud architectures** and **autonomous AI agents**, focusing on the intersection of LLM reasoning and enterprise-level system design.
+Software engineer at **Ericsson**, finishing my **M.Sc. in Media Technology & Engineering** at Linköping University.
+
+I build **agentic AI systems** and the tooling around them, and I like turning physics into interactive browser simulations.
 
 ---
 
 ### 🏗 Featured Projects
 
-* **[Nexus](https://github.com/Berkay2002/nexus):** One prompt, many agents, one deliverable — a local-first multi-agent orchestration platform with skills, sub-agents, and a provider-agnostic model layer. [Live demo](https://nexus-web-snowy.vercel.app/).
-* **[LiThePlan](https://github.com/Berkay2002/LiTHePlan):** An intelligent course planning platform for LiU students. Discover 339 master's courses, build validated 90hp degree profiles, and share them with advisors. Built with Next.js 16, React 19, and Supabase.
-* **[Stats for Spotify](https://berkay.se/projects/statsforspotify):** A full-stack Spotify analytics app with deep listening insights. Source is private, but the portfolio case study has a demo and screenshots.
+* **[Ignition Lab](https://github.com/Berkay2002/ignition-lab)** · An interactive V8 engine built from equations. [Open the lab](https://ignition-lab-berkay.vercel.app/).
+* **[Babysit PR](https://github.com/Berkay2002/babysit-pr)** · A Claude Code and Codex plugin that watches a pull request, fixes CI and review feedback, and gets it ready to merge.
+* **[Stats for Spotify](https://github.com/Berkay2002/statsforspotify)** · Track your Spotify listening history and how your taste changes over time. [Live](https://statsforspotify-chi.vercel.app).
+* **[Finly](https://github.com/Berkay2002/Finly)** · A personal finance planner with optional bank sync. [Live](https://finly-ruddy.vercel.app).
+* **[wikillm](https://github.com/Berkay2002/wikillm)** · Knowledge bases written and maintained by coding agents, in plain markdown.
+* **[Atom](https://github.com/Berkay2002/atom)** · Real-time 3D visualizer for atomic orbitals, in Rust. [Browser demo](https://atom-eta-smoky.vercel.app).
+* **[LiTHePlan](https://github.com/Berkay2002/LiTHePlan)** · Course planning for Linköping University students. [Try it](https://litheplan.vercel.app/).
 
 ---
 
 ### 🌍 Languages
-* **English** (Professional/Bilingual)
-* **Swedish / Svenska** (Professional/Bilingual)
-* **Turkish / Türkçe** (Native)
+* **English** · Professional/Bilingual
+* **Swedish / Svenska** · Professional/Bilingual
+* **Turkish / Türkçe** · Native
 
 ### 📫 Let's Connect
 * **Portfolio:** [berkay.se](https://berkay.se)
-* **Email:** [berkayorhan@hotmail.se](mailto:berkayorhan@hotmail.se)
+* **Email:** [orhan@berkay.se](mailto:orhan@berkay.se)
 * **LinkedIn:** [linkedin.com/in/berkay-orhan](https://www.linkedin.com/in/berkay-orhan-b71256204/)
